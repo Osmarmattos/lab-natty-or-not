@@ -22,21 +22,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
+O mundo daqui 30 anos
+
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pedi para o copilot criar uma imagem para mim de como seria o mundo daqui 30 anos, tenho muita curiosidade de ver como vai ser o futuro, nada melhor do que mostrar essa mesma duvida pra vocês
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Neste desafio eu usei somente a IA do copilot mesmo, mas irei fazer com outras também
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Eu usei o microsoft copilot para criar a imagem de como seria o mundo daqui 30 anos
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![image](https://github.com/user-attachments/assets/cf825513-f38d-4247-b63f-1f0c8d6dc078)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo natty com a IA chega ficar um pouco dificil por ela ser algo muito do futuro também, então as vezes ela pode realmente está nos dando as coisas que realmente vão acontecer igual no eu exemplo, mas também pode ser que seja FAKE NATTY rsrs.
 
 ### Exemplos e Insigths
 
